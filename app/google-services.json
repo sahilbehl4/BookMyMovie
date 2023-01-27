@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "181405637690",
+    "firebase_url": "https://bookmymovie-c8a74-default-rtdb.firebaseio.com",
+    "project_id": "bookmymovie-c8a74",
+    "storage_bucket": "bookmymovie-c8a74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181405637690:android:965c5bea356167ead8e903",
+        "android_client_info": {
+          "package_name": "com.example.bookmymovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181405637690-f2u8g95kjm7abs9pajhu2mri37l0qe9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAQRADTKT_hOHzR1uFddKvLmJHMUr6Nvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181405637690-f2u8g95kjm7abs9pajhu2mri37l0qe9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181405637690:android:e6de9d629adc66bdd8e903",
+        "android_client_info": {
+          "package_name": "com.test.bookMyMovie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181405637690-f2u8g95kjm7abs9pajhu2mri37l0qe9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAQRADTKT_hOHzR1uFddKvLmJHMUr6Nvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181405637690-f2u8g95kjm7abs9pajhu2mri37l0qe9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
